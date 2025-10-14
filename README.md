@@ -1,7 +1,7 @@
 ![datalens-financial-indicators](https://github.com/v-makarov-code/datalens-financial-indicators/blob/main/datalens-financial-indicators.png)
 
 [Ссылка на дашборд](https://datalens.yandex.cloud/5dmz4ptuew6ir)
-## 1.Общая информация
+## 1.Общая информация, цель и задачи
 
 **Финансовые показатели** - это дашборд для анализа финансовых показателей брендов, входящих в группу компании заказчика. Этот дашборд позволяет отслеживать общие метрики и поможет решать задачи:
 
@@ -32,6 +32,9 @@
 * бренд
 
 * страна
+
+**Cтек:** 
+- Yandex DataLens
 
 ---
 
